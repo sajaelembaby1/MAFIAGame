@@ -1,0 +1,3064 @@
+fileFormatVersion: 2
+guid: 171b33562f5f34e14856b1e6f5ecdd8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7379084003816466042
+    second: furniture update_0
+  - first:
+      213: 4301191293495780292
+    second: furniture update_1
+  - first:
+      213: -8214831932239575194
+    second: furniture update_2
+  - first:
+      213: -7468988682449587945
+    second: furniture update_3
+  - first:
+      213: -8888281100334543714
+    second: furniture update_4
+  - first:
+      213: -2152183404477956009
+    second: furniture update_5
+  - first:
+      213: 1997913599795170604
+    second: furniture update_6
+  - first:
+      213: 583296433875784703
+    second: furniture update_7
+  - first:
+      213: -8558593823156556281
+    second: furniture update_8
+  - first:
+      213: 2254650984314907934
+    second: furniture update_9
+  - first:
+      213: 6550929494649411334
+    second: furniture update_10
+  - first:
+      213: 5821396841187061696
+    second: furniture update_11
+  - first:
+      213: -8642763440164640503
+    second: furniture update_12
+  - first:
+      213: -6670303221319552107
+    second: furniture update_13
+  - first:
+      213: 4594309133502718820
+    second: furniture update_14
+  - first:
+      213: -7245016020157258281
+    second: furniture update_15
+  - first:
+      213: -6262468868685696245
+    second: furniture update_16
+  - first:
+      213: 2232076474407992100
+    second: furniture update_17
+  - first:
+      213: 7665146668335434665
+    second: furniture update_18
+  - first:
+      213: 1301732240368106277
+    second: furniture update_19
+  - first:
+      213: -1638696107702578554
+    second: furniture update_20
+  - first:
+      213: -7708539659327919203
+    second: furniture update_21
+  - first:
+      213: 5893666755183281093
+    second: furniture update_22
+  - first:
+      213: -5583979615974063820
+    second: furniture update_23
+  - first:
+      213: 6083273982880723600
+    second: furniture update_24
+  - first:
+      213: -8824374666570855383
+    second: furniture update_25
+  - first:
+      213: -5859881104690157220
+    second: furniture update_26
+  - first:
+      213: -8170938253598963774
+    second: furniture update_27
+  - first:
+      213: 5426109514038946309
+    second: furniture update_28
+  - first:
+      213: 183735871098954504
+    second: furniture update_29
+  - first:
+      213: -5831619145377527484
+    second: furniture update_30
+  - first:
+      213: -6134168722546072179
+    second: furniture update_31
+  - first:
+      213: 1956262201319397132
+    second: furniture update_32
+  - first:
+      213: 2710796845289853155
+    second: furniture update_33
+  - first:
+      213: -2077388184536411359
+    second: furniture update_34
+  - first:
+      213: -3940362691076902691
+    second: furniture update_35
+  - first:
+      213: 2963189409070532810
+    second: furniture update_36
+  - first:
+      213: -7798371752872278773
+    second: furniture update_37
+  - first:
+      213: -4668874654774579707
+    second: furniture update_38
+  - first:
+      213: 2103046291497532987
+    second: furniture update_39
+  - first:
+      213: 8127174393443387363
+    second: furniture update_40
+  - first:
+      213: -3446086711821663174
+    second: furniture update_41
+  - first:
+      213: -6002273665625197065
+    second: furniture update_42
+  - first:
+      213: 2126246032738722315
+    second: furniture update_43
+  - first:
+      213: 2435847272277183593
+    second: furniture update_44
+  - first:
+      213: 2143671485163966591
+    second: furniture update_45
+  - first:
+      213: 887498410115121615
+    second: furniture update_46
+  - first:
+      213: -5755640749839237353
+    second: furniture update_47
+  - first:
+      213: 6636615534092144732
+    second: furniture update_48
+  - first:
+      213: 2331718880588890816
+    second: furniture update_49
+  - first:
+      213: 3352674828808482628
+    second: furniture update_50
+  - first:
+      213: 4309200632384376742
+    second: furniture update_51
+  - first:
+      213: -96194768114725703
+    second: furniture update_52
+  - first:
+      213: 5187831139052282116
+    second: furniture update_53
+  - first:
+      213: 4923453594739870636
+    second: furniture update_54
+  - first:
+      213: -2472580982279415199
+    second: furniture update_55
+  - first:
+      213: -607014159141617900
+    second: furniture update_56
+  - first:
+      213: -5951893306215379763
+    second: furniture update_57
+  - first:
+      213: -7417959346931757760
+    second: furniture update_58
+  - first:
+      213: -6105623273298201815
+    second: furniture update_59
+  - first:
+      213: 8041373564773725208
+    second: furniture update_60
+  - first:
+      213: 5129758762491291436
+    second: furniture update_61
+  - first:
+      213: 1577962338199488123
+    second: furniture update_62
+  - first:
+      213: -8399886962142201457
+    second: furniture update_63
+  - first:
+      213: -5595419927782392110
+    second: furniture update_64
+  - first:
+      213: -1509608116271554534
+    second: furniture update_65
+  - first:
+      213: 5825787054550136755
+    second: furniture update_66
+  - first:
+      213: -2327462390024963913
+    second: furniture update_67
+  - first:
+      213: 9188176610776284426
+    second: furniture update_68
+  - first:
+      213: 4768730266316502506
+    second: furniture update_69
+  - first:
+      213: 3988079408881526848
+    second: furniture update_70
+  - first:
+      213: -5439291030550677855
+    second: furniture update_71
+  - first:
+      213: 8210639515768310141
+    second: furniture update_72
+  - first:
+      213: -8279280509783925128
+    second: furniture update_73
+  - first:
+      213: -4412472017083698886
+    second: furniture update_74
+  - first:
+      213: -241793064422503982
+    second: furniture update_75
+  - first:
+      213: -863949109811516185
+    second: furniture update_76
+  - first:
+      213: -8022589687697645277
+    second: furniture update_77
+  - first:
+      213: 4150619765530079977
+    second: furniture update_78
+  - first:
+      213: 7647570241841456936
+    second: furniture update_79
+  - first:
+      213: 3141574142783656417
+    second: furniture update_80
+  - first:
+      213: 9216860877068051628
+    second: furniture update_81
+  - first:
+      213: -7806351640888458157
+    second: furniture update_82
+  - first:
+      213: 4974308705727190613
+    second: furniture update_83
+  - first:
+      213: -6119883769531991970
+    second: furniture update_84
+  - first:
+      213: -5444936065886879410
+    second: furniture update_85
+  - first:
+      213: 8798858515337775999
+    second: furniture update_86
+  - first:
+      213: 7374042042517446727
+    second: furniture update_87
+  - first:
+      213: -1376130101780523068
+    second: furniture update_88
+  - first:
+      213: -4498648154411829139
+    second: furniture update_89
+  - first:
+      213: 8043168679366059182
+    second: furniture update_90
+  - first:
+      213: 2846025726524055258
+    second: furniture update_91
+  - first:
+      213: -8241642781252925632
+    second: furniture update_92
+  - first:
+      213: 8893809082295249951
+    second: furniture update_93
+  - first:
+      213: 7798123076879990568
+    second: furniture update_94
+  - first:
+      213: -6176719067873152588
+    second: furniture update_95
+  - first:
+      213: 2896627318494476988
+    second: furniture update_96
+  - first:
+      213: -7199573764111735470
+    second: furniture update_97
+  - first:
+      213: 53495013126042113
+    second: furniture update_98
+  - first:
+      213: -463736142838548355
+    second: furniture update_99
+  - first:
+      213: -283987347598300245
+    second: furniture update_100
+  - first:
+      213: -5567703572541271767
+    second: furniture update_101
+  - first:
+      213: -53633135112440976
+    second: furniture update_102
+  - first:
+      213: -3103488474535577818
+    second: furniture update_103
+  - first:
+      213: -3349033701874308087
+    second: furniture update_104
+  - first:
+      213: 2102368314969819903
+    second: furniture update_105
+  - first:
+      213: 7977303340935777383
+    second: furniture update_106
+  - first:
+      213: 4021724273393114922
+    second: furniture update_107
+  - first:
+      213: -314744965319521043
+    second: furniture update_108
+  - first:
+      213: -8499475410729698389
+    second: furniture update_109
+  - first:
+      213: 1239038140659730048
+    second: furniture update_110
+  - first:
+      213: -1115576493861090085
+    second: furniture update_111
+  - first:
+      213: 6479062272532356823
+    second: furniture update_112
+  - first:
+      213: -6837704031512377463
+    second: furniture update_113
+  - first:
+      213: -697755731780540585
+    second: furniture update_114
+  - first:
+      213: 8527563111370629455
+    second: furniture update_115
+  - first:
+      213: -2371759514292218844
+    second: furniture update_116
+  - first:
+      213: -3353393335502070725
+    second: furniture update_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: furniture update_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 383
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a766f3f2ec5c76660800000000000000
+      internalID: 7379084003816466042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 383
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3a1d751b6e0bb30800000000000000
+      internalID: 4301191293495780292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 383
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6670355b1ed0ffd80800000000000000
+      internalID: -8214831932239575194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 380
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711fd2f9d52d85890800000000000000
+      internalID: -7468988682449587945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 367
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ccdbe6e6b76a480800000000000000
+      internalID: -8888281100334543714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 367
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750c99ca898e122e0800000000000000
+      internalID: -2152183404477956009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 367
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d86b765d30abb10800000000000000
+      internalID: 1997913599795170604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 367
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff31be32409481800800000000000000
+      internalID: 583296433875784703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_8
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 339
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ea6e16344c93980800000000000000
+      internalID: -8558593823156556281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_9
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 339
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d2394ef112a4f10800000000000000
+      internalID: 2254650984314907934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 303
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6071535caa399ea50800000000000000
+      internalID: 6550929494649411334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 303
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf298f7591c9c050800000000000000
+      internalID: 5821396841187061696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 303
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909e047417cbe0880800000000000000
+      internalID: -8642763440164640503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 303
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593ba1d9f825e63a0800000000000000
+      internalID: -6670303221319552107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 303
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46323c2b0d342cf30800000000000000
+      internalID: 4594309133502718820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_15
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 303
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5238eb058847b90800000000000000
+      internalID: -7245016020157258281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 303
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03fb017ebd3719a0800000000000000
+      internalID: -6262468868685696245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 303
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b38983abde9fe10800000000000000
+      internalID: 2232076474407992100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_18
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 290
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab076d7842106a60800000000000000
+      internalID: 7665146668335434665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_19
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 290
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b70d3639ea01210800000000000000
+      internalID: 1301732240368106277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_20
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 339
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682929d729e2249e0800000000000000
+      internalID: -1638696107702578554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 339
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bafbc7504c50590800000000000000
+      internalID: -7708539659327919203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 239
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c38a3710b28ac150800000000000000
+      internalID: 5893666755183281093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 239
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43108dcdf18b182b0800000000000000
+      internalID: -5583979615974063820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_24
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 287
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0923bf4f4712c6450800000000000000
+      internalID: 6083273982880723600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_25
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 287
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c861a8ef5898580800000000000000
+      internalID: -8824374666570855383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_26
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 291
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c596be8ae258daea0800000000000000
+      internalID: -5859881104690157220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_27
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 291
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7459823fefa9e80800000000000000
+      internalID: -8170938253598963774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_28
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 291
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aa8a0bad96d4b40800000000000000
+      internalID: 5426109514038946309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_29
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 291
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803a9512dc2cc8200800000000000000
+      internalID: 183735871098954504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 239
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449c766d84de11fa0800000000000000
+      internalID: -5831619145377527484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 239
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85645c0c0e0fdaa0800000000000000
+      internalID: -6134168722546072179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 239
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c079a2d7b1a062b10800000000000000
+      internalID: 1956262201319397132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 236
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e050cd4e5fae9520800000000000000
+      internalID: 2710796845289853155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_34
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1231d10e372ab23e0800000000000000
+      internalID: -2077388184536411359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_35
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 207
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b82862050159c0800000000000000
+      internalID: -3940362691076902691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac849d1611d5f1920800000000000000
+      internalID: 2963189409070532810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_37
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 256
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b058b93553e96c390800000000000000
+      internalID: -7798371752872278773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_38
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 255
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e265dfc33d43fb0800000000000000
+      internalID: -4668874654774579707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_39
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 263
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eb9eea5758f2d10800000000000000
+      internalID: 2103046291497532987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_40
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e708dc1d0689c070800000000000000
+      internalID: 8127174393443387363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_41
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 255
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a340dacc46a0d20d0800000000000000
+      internalID: -3446086711821663174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_42
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 255
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f57abb07e3a3bca0800000000000000
+      internalID: -6002273665625197065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_43
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 255
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02a97e5081f18d10800000000000000
+      internalID: 2126246032738722315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_44
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 224
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c8f2f303eddc120800000000000000
+      internalID: 2435847272277183593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_45
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 272
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70155cabd9dfbd10800000000000000
+      internalID: 2143671485163966591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_46
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 273
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1c2a11a17015c00800000000000000
+      internalID: 887498410115121615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 273
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fb1139b3bdf10b0800000000000000
+      internalID: -5755640749839237353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_48
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 273
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50d66c7aaef91c50800000000000000
+      internalID: 6636615534092144732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 273
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c28299c7fdeb5020800000000000000
+      internalID: 2331718880588890816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_50
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 272
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fe58a5ef7178e20800000000000000
+      internalID: 3352674828808482628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_51
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 224
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afc82fd42b5dcb30800000000000000
+      internalID: 4309200632384376742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_52
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 239
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc45493e5f3aaef0800000000000000
+      internalID: -96194768114725703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_53
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 256
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401ebe54fe0eef740800000000000000
+      internalID: 5187831139052282116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_54
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 223
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab079675fe935440800000000000000
+      internalID: 4923453594739870636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_55
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 257
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a59d862b0afadd0800000000000000
+      internalID: -2472580982279415199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_56
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 223
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f3bbe96d37397f0800000000000000
+      internalID: -607014159141617900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 257
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccc10e8290a66da0800000000000000
+      internalID: -5951893306215379763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_58
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 257
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d08d7a64d1e0990800000000000000
+      internalID: -7417959346931757760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_59
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 257
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923f3be5bf7744ba0800000000000000
+      internalID: -6105623273298201815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_60
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 256
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814fd82f6a2b89f60800000000000000
+      internalID: 8041373564773725208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_61
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 231
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27adb57a60903740800000000000000
+      internalID: 5129758762491291436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_62
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 240
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76435dd26c06e510800000000000000
+      internalID: 1577962338199488123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_63
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 240
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89341cff4b9d6b80800000000000000
+      internalID: -8399886962142201457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_64
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 240
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de7363b8331952b0800000000000000
+      internalID: -5595419927782392110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_65
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 240
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10669f9a6bcc0be0800000000000000
+      internalID: -1509608116271554534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_66
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 240
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7b783b57a59d050800000000000000
+      internalID: 5825787054550136755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_67
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8fa76a94133bfd0800000000000000
+      internalID: -2327462390024963913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_68
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 241
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d7fda42f5f28f70800000000000000
+      internalID: 9188176610776284426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_69
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 200
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5f27159eeed2240800000000000000
+      internalID: 4768730266316502506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_70
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 191
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048ee66b711885730800000000000000
+      internalID: 3988079408881526848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_71
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 215
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6fe0650a1c384b0800000000000000
+      internalID: -5439291030550677855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_72
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 224
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79c724432d02f170800000000000000
+      internalID: 8210639515768310141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_73
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 191
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e938aed361a1d80800000000000000
+      internalID: -8279280509783925128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_74
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 224
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31ff582410c3c2c0800000000000000
+      internalID: -4412472017083698886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_75
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 191
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d981fd2d7af4acf0800000000000000
+      internalID: -241793064422503982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_76
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 224
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec6badacd2a204f0800000000000000
+      internalID: -863949109811516185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_77
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 208
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321e11e3f290aa090800000000000000
+      internalID: -8022589687697645277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_78
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 224
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2b2229fa6f99930800000000000000
+      internalID: 4150619765530079977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_79
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 208
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827eecbcd90a12a60800000000000000
+      internalID: 7647570241841456936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_80
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 208
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e11c20c90d199b20800000000000000
+      internalID: 3141574142783656417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_81
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 208
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca426d9722ed8ef70800000000000000
+      internalID: 9216860877068051628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_82
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 224
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3544e0dda844aa390800000000000000
+      internalID: -7806351640888458157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_83
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5569000b96b480540800000000000000
+      internalID: 4974308705727190613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_84
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58fd5ad22ec11ba0800000000000000
+      internalID: -6119883769531991970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_85
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 159
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4189102f73bf64b0800000000000000
+      internalID: -5444936065886879410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_86
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 159
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b01ab8333db1a70800000000000000
+      internalID: 8798858515337775999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_87
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 159
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7406c071b2cd55660800000000000000
+      internalID: 7374042042517446727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_88
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 159
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c756a6a6f007ece0800000000000000
+      internalID: -1376130101780523068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 159
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68f0d2a6579191c0800000000000000
+      internalID: -4498648154411829139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_90
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 159
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea46922ac431f9f60800000000000000
+      internalID: 8043168679366059182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_91
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aded613c15d1f7720800000000000000
+      internalID: 2846025726524055258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_92
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 159
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047c1c97e8dcf9d80800000000000000
+      internalID: -8241642781252925632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_93
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 199
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ce95a2d382d6b70800000000000000
+      internalID: 8893809082295249951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_94
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 191
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f35384f9f783c60800000000000000
+      internalID: 7798123076879990568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_95
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 192
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1f902cbb2e74aa0800000000000000
+      internalID: -6176719067873152588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_96
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 192
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba3e8df233e23820800000000000000
+      internalID: 2896627318494476988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_97
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 192
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255e5e77ec9f51c90800000000000000
+      internalID: -7199573764111735470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_98
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 192
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102f1a65e6d0eb000800000000000000
+      internalID: 53495013126042113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_99
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 159
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7839906f6a7099f0800000000000000
+      internalID: -463736142838548355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_100
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 162
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baba2b113031f0cf0800000000000000
+      internalID: -283987347598300245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_101
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 159
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9211108891b8bb2b0800000000000000
+      internalID: -5567703572541271767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_102
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073be61a2f4714ff0800000000000000
+      internalID: -53633135112440976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_103
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 179
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627b9c6eca13ee4d0800000000000000
+      internalID: -3103488474535577818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_104
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 179
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c68f29797d581d0800000000000000
+      internalID: -3349033701874308087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_105
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 148
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa00d8f7dc1d2d10800000000000000
+      internalID: 2102368314969819903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_106
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c830e7f1315be60800000000000000
+      internalID: 7977303340935777383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_107
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f992c2be800d730800000000000000
+      internalID: 4021724273393114922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_108
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 95
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec89432f1dc1abf0800000000000000
+      internalID: -314744965319521043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_109
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 92
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babf946652ccb0a80800000000000000
+      internalID: -8499475410729698389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_110
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0860f2dcf92f13110800000000000000
+      internalID: 1239038140659730048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_111
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 15
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc42a3e61da480f0800000000000000
+      internalID: -1115576493861090085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_112
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 15
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de1def2fc04ae950800000000000000
+      internalID: 6479062272532356823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_113
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 15
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987c27a39689b11a0800000000000000
+      internalID: -6837704031512377463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_114
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7576a3bdbd21156f0800000000000000
+      internalID: -697755731780540585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_115
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41a8f4087df75670800000000000000
+      internalID: 8527563111370629455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_116
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 15
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42495f1b941d51fd0800000000000000
+      internalID: -2371759514292218844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture update_117
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 15
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c9c35478a5671d0800000000000000
+      internalID: -3353393335502070725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      furniture update_0: 7379084003816466042
+      furniture update_1: 4301191293495780292
+      furniture update_10: 6550929494649411334
+      furniture update_100: -283987347598300245
+      furniture update_101: -5567703572541271767
+      furniture update_102: -53633135112440976
+      furniture update_103: -3103488474535577818
+      furniture update_104: -3349033701874308087
+      furniture update_105: 2102368314969819903
+      furniture update_106: 7977303340935777383
+      furniture update_107: 4021724273393114922
+      furniture update_108: -314744965319521043
+      furniture update_109: -8499475410729698389
+      furniture update_11: 5821396841187061696
+      furniture update_110: 1239038140659730048
+      furniture update_111: -1115576493861090085
+      furniture update_112: 6479062272532356823
+      furniture update_113: -6837704031512377463
+      furniture update_114: -697755731780540585
+      furniture update_115: 8527563111370629455
+      furniture update_116: -2371759514292218844
+      furniture update_117: -3353393335502070725
+      furniture update_12: -8642763440164640503
+      furniture update_13: -6670303221319552107
+      furniture update_14: 4594309133502718820
+      furniture update_15: -7245016020157258281
+      furniture update_16: -6262468868685696245
+      furniture update_17: 2232076474407992100
+      furniture update_18: 7665146668335434665
+      furniture update_19: 1301732240368106277
+      furniture update_2: -8214831932239575194
+      furniture update_20: -1638696107702578554
+      furniture update_21: -7708539659327919203
+      furniture update_22: 5893666755183281093
+      furniture update_23: -5583979615974063820
+      furniture update_24: 6083273982880723600
+      furniture update_25: -8824374666570855383
+      furniture update_26: -5859881104690157220
+      furniture update_27: -8170938253598963774
+      furniture update_28: 5426109514038946309
+      furniture update_29: 183735871098954504
+      furniture update_3: -7468988682449587945
+      furniture update_30: -5831619145377527484
+      furniture update_31: -6134168722546072179
+      furniture update_32: 1956262201319397132
+      furniture update_33: 2710796845289853155
+      furniture update_34: -2077388184536411359
+      furniture update_35: -3940362691076902691
+      furniture update_36: 2963189409070532810
+      furniture update_37: -7798371752872278773
+      furniture update_38: -4668874654774579707
+      furniture update_39: 2103046291497532987
+      furniture update_4: -8888281100334543714
+      furniture update_40: 8127174393443387363
+      furniture update_41: -3446086711821663174
+      furniture update_42: -6002273665625197065
+      furniture update_43: 2126246032738722315
+      furniture update_44: 2435847272277183593
+      furniture update_45: 2143671485163966591
+      furniture update_46: 887498410115121615
+      furniture update_47: -5755640749839237353
+      furniture update_48: 6636615534092144732
+      furniture update_49: 2331718880588890816
+      furniture update_5: -2152183404477956009
+      furniture update_50: 3352674828808482628
+      furniture update_51: 4309200632384376742
+      furniture update_52: -96194768114725703
+      furniture update_53: 5187831139052282116
+      furniture update_54: 4923453594739870636
+      furniture update_55: -2472580982279415199
+      furniture update_56: -607014159141617900
+      furniture update_57: -5951893306215379763
+      furniture update_58: -7417959346931757760
+      furniture update_59: -6105623273298201815
+      furniture update_6: 1997913599795170604
+      furniture update_60: 8041373564773725208
+      furniture update_61: 5129758762491291436
+      furniture update_62: 1577962338199488123
+      furniture update_63: -8399886962142201457
+      furniture update_64: -5595419927782392110
+      furniture update_65: -1509608116271554534
+      furniture update_66: 5825787054550136755
+      furniture update_67: -2327462390024963913
+      furniture update_68: 9188176610776284426
+      furniture update_69: 4768730266316502506
+      furniture update_7: 583296433875784703
+      furniture update_70: 3988079408881526848
+      furniture update_71: -5439291030550677855
+      furniture update_72: 8210639515768310141
+      furniture update_73: -8279280509783925128
+      furniture update_74: -4412472017083698886
+      furniture update_75: -241793064422503982
+      furniture update_76: -863949109811516185
+      furniture update_77: -8022589687697645277
+      furniture update_78: 4150619765530079977
+      furniture update_79: 7647570241841456936
+      furniture update_8: -8558593823156556281
+      furniture update_80: 3141574142783656417
+      furniture update_81: 9216860877068051628
+      furniture update_82: -7806351640888458157
+      furniture update_83: 4974308705727190613
+      furniture update_84: -6119883769531991970
+      furniture update_85: -5444936065886879410
+      furniture update_86: 8798858515337775999
+      furniture update_87: 7374042042517446727
+      furniture update_88: -1376130101780523068
+      furniture update_89: -4498648154411829139
+      furniture update_9: 2254650984314907934
+      furniture update_90: 8043168679366059182
+      furniture update_91: 2846025726524055258
+      furniture update_92: -8241642781252925632
+      furniture update_93: 8893809082295249951
+      furniture update_94: 7798123076879990568
+      furniture update_95: -6176719067873152588
+      furniture update_96: 2896627318494476988
+      furniture update_97: -7199573764111735470
+      furniture update_98: 53495013126042113
+      furniture update_99: -463736142838548355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
