@@ -1,8 +1,11 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ItemCollector : MonoBehaviour
-
 {
+    private int collectedItems = 0;
+    private const int TotalItemsToCollect = 5;  // Total number of items needed to collect to win
+
     // This method gets called when another Collider enters the trigger
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -20,30 +23,26 @@ public class ItemCollector : MonoBehaviour
     // This method handles the item collection logic
     private void CollectItem(GameObject item)
     {
-        // Here you can add your specific item collection logic
-        Debug.Log("Item collected!");
+        // Increment the collected items count
+        collectedItems++;
 
-        // For example, increase player's score, update UI, etc.
-    }
-}
+        Debug.Log("Item collected! Total items collected: " + collectedItems);
 
-
-public class PlayerController : MonoBehaviour
-{
-    public ItemInventory itemInventory;
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Item"))
+        // Check if all required items are collected
+        if (collectedItems >= TotalItemsToCollect)
         {
-            // Assuming the item has a unique name (e.g., "Gun", "Folder", etc.) matching the itemName in itemsToCollect
-            string itemName = collision.gameObject.name;
-
-            // Collect the item by calling the ItemInventory's CollectItem method
-            itemInventory.CollectItem(itemName);
-
-            // Optionally, destroy the collected item GameObject
-            Destroy(collision.gameObject);
+            // All required items collected, trigger game end (player wins)
+            Debug.Log("Congratulations! You collected all items and won the game!");
+            EndGame();
         }
     }
+
+    // Function to end the game
+    private void EndGame()
+    {
+        // Load a game over scene or perform other end-game actions
+        SceneManager.LoadScene("GameOverScene");
+    }
 }
+
+
