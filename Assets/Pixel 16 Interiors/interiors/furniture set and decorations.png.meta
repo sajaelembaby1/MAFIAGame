@@ -552,6 +552,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3778,7 +3791,160 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      furniture set and decorations_0: 8709919717924278479
+      furniture set and decorations_1: -6464401323204538084
+      furniture set and decorations_10: -4159089303323328985
+      furniture set and decorations_100: -5162075240526418625
+      furniture set and decorations_101: 7185609203246433619
+      furniture set and decorations_102: 4667568118710743944
+      furniture set and decorations_103: 1273253844163112097
+      furniture set and decorations_104: -1821352888841955472
+      furniture set and decorations_105: -7637736409611056131
+      furniture set and decorations_106: -5653510965461577952
+      furniture set and decorations_107: -125108281470061587
+      furniture set and decorations_108: 6379723982225304276
+      furniture set and decorations_109: 5125065100464402331
+      furniture set and decorations_11: 4800737109336318157
+      furniture set and decorations_110: 1423991025541507855
+      furniture set and decorations_111: 383734383995697507
+      furniture set and decorations_112: -7115808727863713698
+      furniture set and decorations_113: 9009048138937757795
+      furniture set and decorations_114: -2922225172958868694
+      furniture set and decorations_115: -3160013828409593134
+      furniture set and decorations_116: 8086657307558032530
+      furniture set and decorations_117: 8691799072327309019
+      furniture set and decorations_118: 8909938183844594265
+      furniture set and decorations_119: -3387901080305496124
+      furniture set and decorations_12: -6468824054079874012
+      furniture set and decorations_120: 4104587162167692741
+      furniture set and decorations_121: -6434168578952381879
+      furniture set and decorations_122: 125209855145007253
+      furniture set and decorations_123: -7062065161960363485
+      furniture set and decorations_124: 287498513655446830
+      furniture set and decorations_125: 4661199898340547365
+      furniture set and decorations_126: -1131613706661323004
+      furniture set and decorations_127: -2022488231469713632
+      furniture set and decorations_128: 1244485229683693573
+      furniture set and decorations_129: -3546194957718634089
+      furniture set and decorations_13: 4933500945305745045
+      furniture set and decorations_130: -212366852734119078
+      furniture set and decorations_131: -4072859151026972578
+      furniture set and decorations_132: -8192136954863707063
+      furniture set and decorations_133: -4883749945026104078
+      furniture set and decorations_134: -8778491828134155460
+      furniture set and decorations_135: -5421597486489258109
+      furniture set and decorations_136: -6001156769125503300
+      furniture set and decorations_137: -3716518035352227743
+      furniture set and decorations_138: -4234292209250931345
+      furniture set and decorations_139: 3384245235869757616
+      furniture set and decorations_14: -8388282804800548213
+      furniture set and decorations_140: -6388337700446545206
+      furniture set and decorations_141: -4726907277193744018
+      furniture set and decorations_142: -7945161374203617576
+      furniture set and decorations_143: 4710689813024086239
+      furniture set and decorations_144: -6388163794922477326
+      furniture set and decorations_145: -4580754035658070884
+      furniture set and decorations_146: -5023971066927283592
+      furniture set and decorations_147: 7574149980455324881
+      furniture set and decorations_148: 2848329300711192145
+      furniture set and decorations_149: -1605551627540465706
+      furniture set and decorations_15: -6385754435922339121
+      furniture set and decorations_150: -5987915579343459716
+      furniture set and decorations_151: -7743295491910175268
+      furniture set and decorations_152: 4976100798444290351
+      furniture set and decorations_16: -3564956164040159505
+      furniture set and decorations_17: 907354852593862713
+      furniture set and decorations_18: -8849392754413937142
+      furniture set and decorations_19: -4426353918039617691
+      furniture set and decorations_2: -6790995868291818909
+      furniture set and decorations_20: -6573602088572524052
+      furniture set and decorations_21: -3708382463980501980
+      furniture set and decorations_22: -6972707399397338942
+      furniture set and decorations_23: 7002154452659410589
+      furniture set and decorations_24: 760771054074134388
+      furniture set and decorations_25: -2131396322532964695
+      furniture set and decorations_26: -5666146210289806650
+      furniture set and decorations_27: -2482353003522206585
+      furniture set and decorations_28: -2943339195535905975
+      furniture set and decorations_29: 317360231001903264
+      furniture set and decorations_3: -7206649156329372212
+      furniture set and decorations_30: 2175921079034756776
+      furniture set and decorations_31: 3442790173107071325
+      furniture set and decorations_32: 2509470354702660335
+      furniture set and decorations_33: -676050745663044261
+      furniture set and decorations_34: -8396025939226368624
+      furniture set and decorations_35: -8487385170027758561
+      furniture set and decorations_36: 69946217814833561
+      furniture set and decorations_37: -2107639137012836048
+      furniture set and decorations_38: -7955125865236790992
+      furniture set and decorations_39: 3919719182052607040
+      furniture set and decorations_4: 3124623565807763519
+      furniture set and decorations_40: -4209596359548043901
+      furniture set and decorations_41: -297202671820128100
+      furniture set and decorations_42: -8803913472264309116
+      furniture set and decorations_43: -8868310097883449811
+      furniture set and decorations_44: -1444538900746372
+      furniture set and decorations_45: 8187506720860220020
+      furniture set and decorations_46: -7713117180989336962
+      furniture set and decorations_47: 7603754847053982316
+      furniture set and decorations_48: 3994659949723303111
+      furniture set and decorations_49: 5297266385433124695
+      furniture set and decorations_5: 1098292087886675960
+      furniture set and decorations_50: 7741857834087624311
+      furniture set and decorations_51: -9090755292152236303
+      furniture set and decorations_52: 5476403117502725074
+      furniture set and decorations_53: -8146178717448150946
+      furniture set and decorations_54: 8001242306694839345
+      furniture set and decorations_55: 3594946929649952390
+      furniture set and decorations_56: 3048662691175365442
+      furniture set and decorations_57: 6547237859011939380
+      furniture set and decorations_58: -7155759956578320295
+      furniture set and decorations_59: -8027355119989769451
+      furniture set and decorations_6: -1934572348289548700
+      furniture set and decorations_60: 5734902869782841641
+      furniture set and decorations_61: -4150241000136615668
+      furniture set and decorations_62: -2964669608319453598
+      furniture set and decorations_63: -7789568047202394555
+      furniture set and decorations_64: -3702143882257686228
+      furniture set and decorations_65: 9198236524829580038
+      furniture set and decorations_66: 1813098961915732909
+      furniture set and decorations_67: 7584079190705246199
+      furniture set and decorations_68: 2726511377928645787
+      furniture set and decorations_69: 3204070978801715934
+      furniture set and decorations_7: 8312314879352424331
+      furniture set and decorations_70: 3292128961296526683
+      furniture set and decorations_71: -8530717550561448170
+      furniture set and decorations_72: 3402047429281873679
+      furniture set and decorations_73: -8346895121314455035
+      furniture set and decorations_74: 3699823093551003462
+      furniture set and decorations_75: 7555891453167289435
+      furniture set and decorations_76: -5658288375901001989
+      furniture set and decorations_77: -260769132827542858
+      furniture set and decorations_78: 1486940031154041590
+      furniture set and decorations_79: -7063415951281746749
+      furniture set and decorations_8: 3344409148270774954
+      furniture set and decorations_80: -8920691070835776397
+      furniture set and decorations_81: 4940110013515310888
+      furniture set and decorations_82: -8831310836452590777
+      furniture set and decorations_83: -4228730953820822619
+      furniture set and decorations_84: 3078105077962805668
+      furniture set and decorations_85: -1583262975977760029
+      furniture set and decorations_86: 2941073762574463835
+      furniture set and decorations_87: 4500885254134219058
+      furniture set and decorations_88: -565347809887428456
+      furniture set and decorations_89: 1622031033870313635
+      furniture set and decorations_9: -7097487145655164177
+      furniture set and decorations_90: -2039947107411455169
+      furniture set and decorations_91: 4394091496715091242
+      furniture set and decorations_92: 4071000798182608991
+      furniture set and decorations_93: 4391492710186828445
+      furniture set and decorations_94: -9067935898644484823
+      furniture set and decorations_95: -6615061564881261256
+      furniture set and decorations_96: -3627531864855990430
+      furniture set and decorations_97: 318997159976856271
+      furniture set and decorations_98: 7215135459634982497
+      furniture set and decorations_99: -4864454784899706921
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
